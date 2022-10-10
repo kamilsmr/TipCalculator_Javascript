@@ -1,15 +1,23 @@
 div {
+
     background-color: aquamarine;
-    margin: auto;
-    padding: 20px 50px;
+    justify-content: center;
+
+    padding: 20px 500px;
 
 }
 
 button {
     height: 50px;
+    justify-content: center;
+    align-items: center;
+   
     
 }
 input{
     height: 50px;
+    justify-content: center;
+    align-items: center;
+
     
 }
